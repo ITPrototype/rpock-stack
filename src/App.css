@@ -1,0 +1,10 @@
+body {
+  background-color: aliceblue;
+}
+.App{
+  background-color: white;
+}
+.time{
+  color: gray;
+  font-size: 9px;
+}
